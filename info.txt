@@ -28,7 +28,7 @@ check
 Lazar og Melvin:
 Main: Appaløkka skole, Du bare går rundt å explorer(I roblox).
 reserve: Gammeldags fly i space og skyter på haier som kommer 
-fra høyre side av skjermen 
+fra høyre side av skjermen. 
 
 check(?)
 
